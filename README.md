@@ -14,7 +14,7 @@ To decode a pdfstream select the data inbetween 'stream' and 'endstream' and sav
 use:
 <code>
 # pdfstream.py -in FILEIN -out FILEOUT
-<code>
+</code>
 <br>
 The stream will then be decompressed and saved in FILEOUT.
 </p>
