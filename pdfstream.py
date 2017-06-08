@@ -1,11 +1,10 @@
-
 #!/usr/bin/python3
 # row row row your boat gently down the stream ... merrily merrily merrily merrily life is but a dream
 
 __author__  = 'zaphoxx'
 __email__   = 'zaphoxx@gmail.com'
 __url__     = ''
-__git__     = ''
+__git__     = 'http://github.com/zaphoxx/pdfstream.git'
 __twitter__ = ''
 __version__ = '0.1a'
 __license__ = ''
