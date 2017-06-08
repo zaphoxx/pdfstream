@@ -9,8 +9,7 @@ __twitter__ = ''
 __version__ = '0.1a'
 __license__ = ''
 __banner__  = "# pdfstream - {} - {} - {}".format(__version__,__author__, __git__)
-__description__ ="row row row your boat gently down the stream ... merrily merrily merrily merrily life is but a dream
-"
+__description__ ="row row row your boat gently down the stream ... merrily merrily merrily merrily life is but a dream"
 
 import zlib
 import sys
